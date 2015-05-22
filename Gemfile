@@ -44,3 +44,5 @@ group :development, :test do
 end
 
 gem"haml-rails"
+gem"haml-rails"
+gem"mysql2"
